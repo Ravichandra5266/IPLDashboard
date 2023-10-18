@@ -1,0 +1,10 @@
+li {
+  list-style-type: none;
+  height: 200px !important;
+}
+.img-fluid {
+  width: 100px !important;
+}
+.team-name {
+  margin-left: auto;
+}

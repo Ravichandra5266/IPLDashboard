@@ -1,0 +1,35 @@
+.team-bannger {
+  width: 100% !important;
+}
+.logo {
+  width: 100px !important;
+}
+@media screen and (min-width: 768px) {
+  .logo {
+    width: 50% !important;
+  }
+}
+.hr-line {
+  width: 100%;
+  border: 2px solid;
+}
+.recent-card {
+  height: auto !important;
+}
+@media screen and (min-width: 768px) {
+  .recent-card {
+    height: 400px !important;
+    /* width: 100% !important; */
+  }
+}
+.green {
+  color: #18ed66;
+  font-weight: bold;
+}
+.red {
+  color: #e31a1a;
+  font-weight: bold;
+}
+.recent-match-logo {
+  width: 100px !important;
+}

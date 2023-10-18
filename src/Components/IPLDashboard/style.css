@@ -1,0 +1,16 @@
+.home-card {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png");
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+  background-position: center;
+}
+@media screen and (min-width: 768px) {
+  .home-card {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png");
+    background-position: center;
+  }
+}
+.img-fluid {
+  width: 150px !important;
+}
